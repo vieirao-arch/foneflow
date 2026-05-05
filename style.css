@@ -96,3 +96,29 @@ section {
     font-weight: bold;
     color: #fff;
 }
+#depoimentos {
+    background-color: var(--cor-fundo-escuro);
+    color:#fff;
+}
+#comprar {
+    background-color: var(--cor-fundo-medio);
+    color: #fff;
+}
+
+.btn-cta {
+    background-color: var(--cor-primaria)!important;
+    color: #fff !important;
+    border: none;
+    padding: 0.85rem 2.5rem!important;
+    border-radius: 50px!important;
+}
+.link-social {
+    color: var(--cor-fundo-claro);
+    text-decoration: none;
+}
+.link-social:hover{
+    color: var(--cor-primaria);
+}
+.footer-muted {
+    color: #6b7280;
+}
