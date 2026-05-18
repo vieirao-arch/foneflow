@@ -122,3 +122,8 @@ section {
 .footer-muted {
     color: #6b7280;
 }
+.preco-tag {
+    font-size: 3.5rem;
+    color: var(--cor-primaria);
+    font-weight: 800;
+}
